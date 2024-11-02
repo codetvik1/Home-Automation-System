@@ -1,0 +1,3 @@
+During my internship at Emertxe, I developed an IoT home automation system utilizing the PICSimLab simulator for prototyping. This project involved extensive coding in C++ to program the system’s operations and run it successfully within the simulator. The automation system showcased essential smart home functionalities, demonstrating practical applications of IoT technology in real-world scenarios. To complement my work, I also uploaded a video illustrating the working model, providing a comprehensive look at the system’s features and functionality.
+
+Link for model -https://www.youtube.com/watch?v=RNJX81wpzk8
